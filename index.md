@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<!-- La Banda de los Dragones -->
+
 # Prólogo
 
 Ésta es una transcripción de dos hojas halladas recientemente en los sótanos de la historia.

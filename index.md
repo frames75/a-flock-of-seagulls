@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<!-- La Banda de los Dragones -->
-
 # Prólogo
 
 Ésta es una transcripción de dos hojas halladas recientemente en los sótanos de la historia.
@@ -35,7 +33,7 @@ layout: default
 
 # Hora y lugar de reunión
 
-Habrá que reunirse **lunes, miércoles** y **viernes** en el _???_ viejo. El que falte más de cinco veces, y que pueda venir y no venga, será expulsado de la banda.
+Habrá que reunirse **lunes, miércoles** y **viernes** en el _????_ viejo. El que falte más de cinco veces, y que pueda venir y no venga, será expulsado de la banda.
 
 > Si falta por razones concretas como ir a solfa, a meca, a judo, etc., no se le expulsará.
 
@@ -59,7 +57,7 @@ La hora de reunión es a las cinco (5).
 | Garrofero           |  |  |  |  |  |  |  |  |  |  |  |
 
 # Posiciones de ataque
-
+<br/>
 <img alt="Posiciones de ataque" src="assets/images/posicio-ataque.jpeg">
 
 
